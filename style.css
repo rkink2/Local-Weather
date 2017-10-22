@@ -1,0 +1,24 @@
+body{
+  background-image:url("https://thedesignblitz.com/wp-content/uploads/2014/03/blur_1x-1.jpg");
+  background-repeat: none;
+  background-size:100% ;
+}
+
+.container{
+  padding-top: 5%;
+  text-align: center;
+  font-color: #FFFFFF;
+ 
+}
+h1{
+  font-size: 60px; 
+}
+#weather{
+  font-size: 30px;
+}
+.icon{
+ font-size: 150px;
+}
+h4{
+  font-size: 30px;
+}
